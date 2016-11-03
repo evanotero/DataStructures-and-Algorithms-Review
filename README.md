@@ -1,4 +1,17 @@
 # DataStructures-and-Algorithms-Review
+
+### To be added...
+1. Searching and Sorting
+2. Trees
+3. Binary Search Trees
+4. Heaps and Priority Queues
+5. Sets and Maps
+6. Mutli-Way Search Trees
+7. Graphs
+8. Huffman Trees
+9. Hashing
+...
+
 ## Analysis of Algorithms
 - The order of an algorithm is found by eliminating constants and all but the dominant term in the algorithm's growth function
 - The order of an algorithm provides an upper bound to the algorithm&#39;s growth function
